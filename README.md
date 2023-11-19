@@ -1,6 +1,6 @@
 # Developing Apps For XPLOIT
 
-You can get developer access by running `x dev` in XPLOIT Terminal
+You can get developer access by running ```bash x dev``` in XPLOIT Terminal
 
 The XPLOIT development program is subject to change and removal. Your account may be terminated at any time.
 
@@ -13,5 +13,5 @@ You can download the terminal app in the official app store.
 To get started run: 
 
 ```bash
-x dev
+help
 ```
