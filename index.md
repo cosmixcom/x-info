@@ -1,15 +1,13 @@
 # Welcome to XPLOIT
 
-#### What happens on XPLOIT stays on XPLOIT.
+XPLOIT is like your personal computer in the cloud. All of our processes are hosted on a secure proxy network, and your IP Address and personal information is hidden at all times.
 
-XPLOIT's goal is to prevent internet-censorship and keep you safe online.
+XPLOIT allows you to download, create, and use applications in a desktop environment. Read more about the developer program [here](./Developers).
 
-XPLOIT is your unblocked computer in the cloud.
+Since XPLOIT is intended for privacy, flexbility, and no censorship, there may be some safety concerns. Read [Using XPLOIT Safely](./Safety) for more info.
 
-### XPLOIT Hub
+### XPLOIT Mailing Lists
 
-[Using XPLOIT Safely](./Safety)
+Recieve an email each time an update for XPLOIT happens.
 
-[Becoming and XPLOIT Developer](./Developers)
-
-[Submit an App Idea](https://x22-1.xploit-client.repl.co/service/hvtrs8%2F-dmcq.eomgne%2Ccmm-fmros-d-e-1DAKpSLQfpoDjnHHSCnxLlAl2dRqnClnLtaDb%60RajMN%5BTkC%7B6KD7MuyS%2Ftigwdopm%3Duqp%3Fsgnf_dopm)
+<carbonEmail data-name="home"></carbonEmail>
