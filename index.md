@@ -1,9 +1,15 @@
-# Welcome to Carbon
+# Welcome to XPLOIT
 
-Thanks for choosing Carbon to make your site. We know there are a lot of choices so it means a lot!
+#### What happens on XPLOIT stays on XPLOIT.
 
-Carbon provides a simple yet effective way to create websites.
+XPLOIT's goal is to prevent internet-censorship and keep you safe online.
 
-Using markdown the possibilities are endless. Plus we plan to expand to MarkdownX in the future.
+XPLOIT is your unblocked computer in the cloud.
 
-Find more info about Carbon on the [homepage](https://carbon.toggled.tech).
+### XPLOIT Hub
+
+[Using XPLOIT Safely](./Safety)
+
+[Becoming and XPLOIT Developer](./Developers)
+
+[Submit an App Idea](https://x22-1.xploit-client.repl.co/service/hvtrs8%2F-dmcq.eomgne%2Ccmm-fmros-d-e-1DAKpSLQfpoDjnHHSCnxLlAl2dRqnClnLtaDb%60RajMN%5BTkC%7B6KD7MuyS%2Ftigwdopm%3Duqp%3Fsgnf_dopm)

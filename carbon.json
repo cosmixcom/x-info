@@ -4,19 +4,19 @@
     "doc": "index"
   },
   {
-    "name": "About",
+    "name": "Safety",
     "doc": "about"
   },
   {
-    "name": "Development",
+    "name": "Developers",
     "doc": "README"
   }],
-  "logo": "carbon.png",
+  "logo": "x.png",
   "action": {
     "URL": "//carbon.toggled.tech",
     "text": "Try Carbon"
   },
-  "title": "Carbon Starter",
+  "title": "Welcome - XPLOIT",
   "branding": {
     "copyright": "Toggled.tech",
     "URL": "//toggled.tech"
