@@ -11,9 +11,13 @@
     "name": "Developers",
     "doc": "README"
   },
-    {
+  {
     "name": "Suggest an App",
     "doc": "suggest"
+  },
+  {
+    "name": "Troubleshooting",
+    "doc": "issues"
   }],
   "logo": "x.png",
   "action": {
